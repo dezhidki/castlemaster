@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleMaster", "CastleMaster\CastleMaster\CastleMaster.csproj", "{CED3A1B5-073B-4B15-BB6F-51FAEC1A0B2A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CastleMasterContent", "CastleMaster\CastleMasterContent\CastleMasterContent.contentproj", "{AB19867E-486C-4F6C-91B7-F672CA22346D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED3A1B5-073B-4B15-BB6F-51FAEC1A0B2A}.Debug|x86.ActiveCfg = Debug|x86
+		{CED3A1B5-073B-4B15-BB6F-51FAEC1A0B2A}.Debug|x86.Build.0 = Debug|x86
+		{CED3A1B5-073B-4B15-BB6F-51FAEC1A0B2A}.Release|x86.ActiveCfg = Release|x86
+		{CED3A1B5-073B-4B15-BB6F-51FAEC1A0B2A}.Release|x86.Build.0 = Release|x86
+		{AB19867E-486C-4F6C-91B7-F672CA22346D}.Debug|x86.ActiveCfg = Debug|x86
+		{AB19867E-486C-4F6C-91B7-F672CA22346D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
